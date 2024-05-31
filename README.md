@@ -1,2 +1,1 @@
-# payTM
-Here I build an app like paytm.
+## Build a basic version of PayTM
